@@ -1,4 +1,4 @@
-## Hi there! I'm Tooba Sheikh 👋
+## Hi there! I'm Tooba 👋
 
 👀 I’m interested in started my cvareer as a software engineer! <br>
 🌱 I’m a software engineering graduate from Carleton University and BrainStation. <br>
