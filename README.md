@@ -1,6 +1,6 @@
 ## Hi there! I'm Tooba Sheikh 👋
 
-👀 I’m interested in started my cvareer as a software engineer!
+👀 I’m interested in started my cvareer as a software engineer! <br>
 🌱 I’m a software engineering graduate from Carleton University and BrainStation.
 💞️ I’m looking to collaborate on projects where I can continue to grow and expand on the skills I've learned.
 📫 How to reach me: Send me a message on linkedin 🙂
