@@ -7,6 +7,8 @@
 😄 Pronouns: She/her/hers <br>
 ⚡ Fun fact: I love to read, watch anime in my spare time. And I have been really into crocheting little plushies. <br>
 
+LinkedIn: [LinkedIn](www.linkedin.com/in/tooba-sheikh)
+
 <!--
 **ToobaKS/ToobaKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
