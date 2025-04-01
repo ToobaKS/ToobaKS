@@ -1,6 +1,6 @@
 ## Hi there! I'm Tooba 👋
 
-👀 I’m interested in started my career as a software engineer! <br>
+👀 I’m interested in starting my career as a software engineer! <br>
 🌱 I’m a software engineering graduate from Carleton University and BrainStation. <br>
 💞️ I’m looking to collaborate on projects where I can continue to grow and expand on the skills I've learned. <br>
 📫 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/tooba-sheikh) 🙂 <br>
